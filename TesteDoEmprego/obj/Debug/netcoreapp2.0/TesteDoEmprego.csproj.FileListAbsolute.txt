@@ -1,0 +1,11 @@
+C:\Users\Guilherme\source\repos\TesteDoEmprego\TesteDoEmprego\obj\Debug\netcoreapp2.0\TesteDoEmprego.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\source\repos\TesteDoEmprego\TesteDoEmprego\obj\Debug\netcoreapp2.0\TesteDoEmprego.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\repos\TesteDoEmprego\TesteDoEmprego\obj\Debug\netcoreapp2.0\TesteDoEmprego.AssemblyInfoInputs.cache
+C:\Users\Guilherme\source\repos\TesteDoEmprego\TesteDoEmprego\obj\Debug\netcoreapp2.0\TesteDoEmprego.AssemblyInfo.cs
+C:\Users\Guilherme\source\repos\TesteDoEmprego\TesteDoEmprego\bin\Debug\netcoreapp2.0\TesteDoEmprego.deps.json
+C:\Users\Guilherme\source\repos\TesteDoEmprego\TesteDoEmprego\bin\Debug\netcoreapp2.0\TesteDoEmprego.runtimeconfig.json
+C:\Users\Guilherme\source\repos\TesteDoEmprego\TesteDoEmprego\bin\Debug\netcoreapp2.0\TesteDoEmprego.runtimeconfig.dev.json
+C:\Users\Guilherme\source\repos\TesteDoEmprego\TesteDoEmprego\bin\Debug\netcoreapp2.0\TesteDoEmprego.dll
+C:\Users\Guilherme\source\repos\TesteDoEmprego\TesteDoEmprego\bin\Debug\netcoreapp2.0\TesteDoEmprego.pdb
+C:\Users\Guilherme\source\repos\TesteDoEmprego\TesteDoEmprego\obj\Debug\netcoreapp2.0\TesteDoEmprego.dll
+C:\Users\Guilherme\source\repos\TesteDoEmprego\TesteDoEmprego\obj\Debug\netcoreapp2.0\TesteDoEmprego.pdb
